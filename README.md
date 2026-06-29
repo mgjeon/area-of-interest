@@ -1,5 +1,215 @@
 # Resources
 
+## IDL Astronomy Library
+- https://github.com/wlandsman/IDLAstro
+
+## Astropy
+- https://github.com/astropy
+
+## SolarSoft
+- https://soho.nascom.nasa.gov/solarsoft/offline/swmaint/tar/
+
+## Sunpy
+- https://github.com/sunpy
+
+## Predictive Science
+- https://github.com/predsci
+
+## JSOC
+- http://jsoc.stanford.edu/
+- https://github.com/JSOC-SDP/drms
+- https://github.com/JSOC-SDP/proj
+- https://github.com/JSOC-SDP/workflow
+
+## Neural Field
+- https://github.com/RobertJaro/SuNeRF
+
+## Coronal Hole
+- https://github.com/predsci/CHMAP
+
+## Coronal Loop
+- https://github.com/sunpy/sunkit-image
+- https://sunpy.org/posts/2018/2018-07-21-coronal-loop-coordinates/
+- https://github.com/wtbarnes/fiasco
+- https://github.com/wtbarnes/synthesizAR
+- https://github.com/rice-solar-physics/ebtelplusplus
+- https://github.com/rice-solar-physics/pydrad
+
+## DEM
+- https://gist.github.com/wtbarnes/573bfc35bae61de149410793f33ae35e
+- https://github.com/sunpy/sunkit-dem
+- https://github.com/ianan/demreg
+- https://github.com/alasdairwilson/demregpy
+- https://github.com/dstansby/demcmc
+- https://github.com/jeplowman/EMToolKit
+- https://github.com/PaulJWright/DeepEM
+
+## Active Region
+- https://github.com/DavidMacT/ARTop
+- https://github.com/mbobra/SHARPs
+- https://github.com/mbobra/SMARPs
+
+## Magnetic Map
+- https://gong.nso.edu/
+- https://magmap.nso.edu/index.html
+- https://nso.edu/data/nisp-data/synoptic-maps/
+
+## SFT
+- https://github.com/antyeates1983/sft_data
+- https://github.com/antyeates1983/sharps-bmrs
+- https://github.com/predsci/OFT
+
+## Magnetic Field
+- https://github.com/njuguoyang/magnetic_modeling_codes
+- https://github.com/RobertJaro/pinn-me
+- https://mgjeon.github.io/posts/sunpy-paper-implementation/
+- https://github.com/mgjeon/rtmag
+
+## Cartesian
+- https://github.com/wtbarnes/greensfield
+- https://github.com/liusnaoc/NLFFF_opti
+- https://github.com/Kai-E-Yang/cfit_fftw3
+- https://github.com/Gelu-Nita/GX_SIMULATOR
+- https://github.com/el2718/FastQSL
+- https://github.com/el2718/FastQSL2
+- https://github.com/peijin94/FastQSL
+- https://github.com/antyeates1983/flhtools
+- https://github.com/sunpy/streamtracer
+
+## Spherical
+- https://github.com/antyeates1983/pfss
+- https://github.com/dstansby/pfsspy
+- https://github.com/sunpy/sunkit-magex
+- https://github.com/antyeates1983/sphtools
+
+## Cartesian + Spherical
+- https://github.com/RobertJaro/NF2
+- https://github.com/Valentin-Aslanyan/UFiT
+- https://github.com/sunpy/sunkit-pyvista
+
+## MHD
+- https://github.com/predsci/MAS
+- https://github.com/predsci/psi-io
+- https://github.com/predsci/pyvisual
+- https://github.com/predsci/mapflpy
+- https://github.com/pencil-code/pencil-code
+- https://github.com/JohannesBuchner/PLUTO
+- https://github.com/PrincetonUniversity/athena
+- https://github.com/zenitani/OpenMHD
+- https://github.com/leo1200/astronomix
+
+## Parker Spiral
+- https://github.com/jgieseler/solarmach
+
+## Solar Wind Observations
+- https://www.swpc.noaa.gov/products/real-time-solar-wind
+- https://github.com/hapi-server/client-python
+
+## HUX
+- https://research.reading.ac.uk/met-spate/huxt-forecast/
+- https://github.com/predsci/HUX
+- https://github.com/predsci/HUX-paper3
+- https://github.com/University-of-Reading-Space-Science/HUXt
+
+## WSA
+- https://iswa.ccmc.gsfc.nasa.gov/iswa_data_tree/model/solar/WSA6/
+- https://github.com/predsci/SWiG
+- https://github.com/opaliss/Parameter_Estimation_Solar_Wind
+
+## WSA-ENLIL
+- https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
+
+## Solar Wind Prediction
+- https://github.com/helioforecast/Predstorm
+
+## CME
+- https://ccmc.gsfc.nasa.gov/analysis/stereo/
+- https://github.com/astronish16/Cone_Model_for_CME
+- https://github.com/AthKouloumvakos/PyThea
+- https://github.com/johan12345/gcs_python
+- https://github.com/KeyanGootkin/GCS-Benchmarking
+
+## Drag-Based Model (DBM)
+- https://ccmc.gsfc.nasa.gov/models/DBM~cdbm_201510/
+- https://lasco-www.nrl.navy.mil/index.php
+- https://github.com/astronish16/DBM
+
+## Heliospheric Imager
+- https://github.com/tamerstorfer/ELEvoHI
+- https://github.com/maikebauer/STEREO-HI-Data-Processing
+- https://github.com/lelouedec/beacon2science
+
+# Heliosphere Model
+
+- [Heliophysics Educational Resources](https://heliophysics.ucar.edu/resources)
+
+## Ambient Solar Wind Model
+
+1. Magnetic Maps: GONG, MDI, HMI
+2. Coronal Domain: PFSS, MAS
+3. Model Interface: WSA
+4. Heliospheric Domain: ENLIL, HUX
+
+- [Unifying the validation of ambient solar wind models](https://doi.org/10.1016/j.asr.2022.05.026)
+- https://www.swpc.noaa.gov/products/real-time-solar-wind
+- https://github.com/hapi-server/client-python
+- https://github.com/jgieseler/solarmach
+- https://gong.nso.edu/
+- https://magmap.nso.edu/index.html
+- https://nso.edu/data/nisp-data/synoptic-maps/
+- http://jsoc.stanford.edu/
+- https://github.com/JSOC-SDP/drms
+- https://deepwiki.com/JSOC-SDP/drms
+- https://github.com/JSOC-SDP/proj
+- https://deepwiki.com/JSOC-SDP/proj/
+- https://github.com/predsci/OFT
+- https://github.com/antyeates1983/pfss
+- https://github.com/dstansby/pfsspy
+- https://github.com/sunpy/sunkit-magex
+- https://github.com/njuguoyang/magnetic_modeling_codes
+- https://github.com/antyeates1983/flhtools
+- https://github.com/Valentin-Aslanyan/UFiT
+- https://github.com/sunpy/streamtracer
+- https://github.com/sunpy/sunkit-pyvista
+- https://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
+- https://ccmc.gsfc.nasa.gov/models/WSA-Enlil-at-SWPC~3/
+- https://research.reading.ac.uk/met-spate/huxt-forecast/
+- https://github.com/predsci/MAS
+- https://github.com/predsci/SWiG
+- https://github.com/predsci/HUX
+- https://github.com/predsci/HUX-paper3
+- https://github.com/University-of-Reading-Space-Science/HUXt
+- https://github.com/opaliss/Parameter_Estimation_Solar_Wind
+
+## CME Structure Model
+
+1. Cone
+2. Graduated Cylindrical Shell (GCS)
+3. Magnetic Flux Rope
+
+- [Numerical modeling of solar wind and coronal mass ejection in the inner heliosphere: A review](https://doi.org/10.3389/fspas.2023.1105797)
+- https://ccmc.gsfc.nasa.gov/analysis/stereo/
+- https://github.com/astronish16/Cone_Model_for_CME
+- https://github.com/AthKouloumvakos/PyThea
+- https://github.com/johan12345/gcs_python
+- https://github.com/KeyanGootkin/GCS-Benchmarking
+
+
+## CME Propagation Model
+
+1. Drag-Based Model (DBM)
+
+- [CME propagation through the heliosphere: Status and future of observations and model development](https://www.sciencedirect.com/science/article/pii/S0273117723005239)
+- [Drag-Based Model (DBM) Tools for Forecast of Coronal Mass Ejection Arrival Time and Speed](https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2021.639986/full)
+- https://ccmc.gsfc.nasa.gov/models/DBM~cdbm_201510/
+- https://lasco-www.nrl.navy.mil/index.php
+- https://stereo-ssc.nascom.nasa.gov/
+- https://github.com/astronish16/DBM
+- https://github.com/maikebauer/STEREO-HI-Data-Processing
+- https://github.com/tamerstorfer/ELEvoHI
+- https://github.com/lelouedec/beacon2science
+
+
 ## Simulation
 - [py-pde](https://github.com/zwicker-group/py-pde)
 - [findiff](https://github.com/maroba/findiff)
