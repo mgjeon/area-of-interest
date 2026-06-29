@@ -1,5 +1,7 @@
 # Resources
 
+- https://github.com/lavenderLi09/MagWind
+
 ## IDL Astronomy Library
 - https://github.com/wlandsman/IDLAstro
 
