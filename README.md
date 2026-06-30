@@ -13,6 +13,7 @@
 ## SolarSoft
 - https://www.lmsal.com/solarsoft/
 - https://soho.nascom.nasa.gov/solarsoft/offline/swmaint/tar/
+- https://soho.nascom.nasa.gov/solarsoft/packages/
 
 ## Sunpy
 - https://github.com/sunpy
